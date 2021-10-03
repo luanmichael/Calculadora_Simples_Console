@@ -1,0 +1,6 @@
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/bin/Debug/Calculadora_simples.exe
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/bin/Debug/Calculadora_simples.pdb
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/obj/x86/Debug/Calculadora_simples.csprojAssemblyReference.cache
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/obj/x86/Debug/Calculadora_simples.csproj.CoreCompileInputs.cache
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/obj/x86/Debug/Calculadora_simples.exe
+/home/luan/Projects/Calculadora_simples/Calculadora_simples/obj/x86/Debug/Calculadora_simples.pdb
